@@ -1,4 +1,4 @@
-# holiyay
+# holiyay 🥳
 
 This application allows you to explore public holidays of different countries. You can easily find information about holidays in various regions and plan your activities accordingly. Key features include:
 
